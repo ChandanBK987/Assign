@@ -158,6 +158,9 @@ Team 1: Implement the mathematical models for charging/discharging
 Team 2: Create graphs to visualize the results using Matplotlib
 Team 3: Document the tool and provide a guide for usage
 Outcome: A tool showcasing capacitor behavior with input parameters and graphs.
+
+
+
 --------------------------------------------------------------------------------------------------------------------------
                                           **EXTRAS**
 **13. Three-Phase Power Calculator
